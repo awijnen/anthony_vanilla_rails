@@ -4,6 +4,9 @@ ruby '2.0.0'
 gem 'rails', '4.0.0'
 gem 'pg', '0.15.1'
 
+gem 'pry'
+gem 'pry-rails'
+
 group :development, :test do
   gem 'rspec-rails', '2.13.1'
 end
