@@ -1,6 +1,6 @@
 # Ruby on Rails Vanilla Application:
 
-This is the vanilla application for Ruby on Rails
+This is Anthony Wijnen's vanilla application code for bootstrapping a new Ruby on Rails project:
 
 Core components
 - Rails
