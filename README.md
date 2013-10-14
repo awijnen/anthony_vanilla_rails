@@ -29,3 +29,6 @@ Get Started
       b) bundle update
       c) bundle install
   5. rake db:migrate
+  6. rails server 
+
+  You should now see a vanilla bootstrap-styled rails app in @ http://localhost:3000/
