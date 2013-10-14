@@ -27,7 +27,7 @@ Get Started
       a) rm -rf .git
       b) git init
       b) git add .
-      c) git commit -m 'Initialize repo'
+      c) git commit -m 'Initial commit'
       d) git remote add origin https://github.com/<username>/your_app_name.git
       e) git push -u origin master 
   8. rake db:create:all
